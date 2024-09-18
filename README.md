@@ -11,4 +11,5 @@ Here’s a step-by-step guide to performing road accident analysis in Excel:
 2. Data Cleaning
 3. Data Analysis
 4. Reporting and Presentation
-   
+
+![image alt](https://github.com/udit7505/road-accident-data-analysis-/blob/main/excel%20project.png?raw=true)
